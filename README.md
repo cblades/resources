@@ -177,6 +177,11 @@ Search words: Cascading Style Sheets
  * 🆓🎓 [Official Django Tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/) - Official tutorial for Django, well regarded.
  * 🆓🎓 [DjangoGirls Blog Tutorial](https://tutorial.djangogirls.org/en/) - Simple and short tutorial about how to make a blog with Django.
 
+#### Projects
+ * 🆓 [Requests](https://github.com/psf/requests) - Widely used library for making HTTP requests.  Well-documented, well-maintained, and well-organized.  Start in [requests/api.py](https://github.com/psf/requests/blob/master/requests/api.py) for an overview of the HTTP api (get(), post(), etc), and then dive into [sessions.py](https://github.com/psf/requests/blob/master/requests/sessions.py) for a deeper look into the implementation of making HTTP requets.
+ * 🆓 [Flask](https://github.com/pallets/flask) - "The Python micro framework for building web applications."  Widely-used, super-terse framework that excells at making RESTful APIs (but can do plenty more).  Much of the configuration is decorator-based, for example, check out route() in [scaffold.py](https://github.com/pallets/flask/blob/070a0c1c759e686ac03e9cdfca64b116665df6d4/src/flask/scaffold.py#L150).
+ 
+
 ### Haskell
 
 #### Learning
